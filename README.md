@@ -1,4 +1,4 @@
-# 🧺 Modelagem de Dados — Lavanderia Sta. Bárbara
+# Modelagem de Dados — Lavanderia Sta. Bárbara
 
 ## Sobre o projeto
 
